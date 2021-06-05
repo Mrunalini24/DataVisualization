@@ -1,2 +1,2 @@
-# Tableau
+# Data Viz
 Tableau practice project
